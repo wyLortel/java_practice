@@ -1,4 +1,7 @@
 package class1;
 
-public class student {
+public class Student {
+    String name;
+    int age;
+    int grade;
 }
