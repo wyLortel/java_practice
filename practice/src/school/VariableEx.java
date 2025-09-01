@@ -23,6 +23,7 @@ public class VariableEx {
 
         VariableEx variableEx = new VariableEx();
         variableEx.printX();
+
     }
 
 
