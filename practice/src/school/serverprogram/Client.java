@@ -29,6 +29,7 @@ class ClientUI extends JFrame {
         }
     }
 
+
     public ClientUI(){
         jf = new JTextField(15);
         this.add(jf);
